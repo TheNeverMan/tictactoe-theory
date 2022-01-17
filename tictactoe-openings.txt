@@ -1,0 +1,226 @@
+Tictactoe Theory and Complete List of All Openings
+
+This document covers basics of Tictactoe theory and list of all openings.
+First of all it should be explained what a "Tictactoe opening".
+
+GAME EXAMPLES DISCLAIMER
+------------------------
+
+In all shown below game examples X is the starting player.
+
+THEORY
+------
+
+Tictactoe game is divided into 3 parts:
+- opening (3 first moves, 2 of starting player and one of second player),
+- mid game (4 next moves),
+- end game (2 last moves),
+Move is one placement of piece on the board, eg.
+- X -
+O - -
+- - - here two moves has been made.
+
+Opening has its subpart - halfopening, it is first 2 moves.
+There are 12 original halfopenings (excluding rotations and symetrical ones).
+This is an example of halfopening:
+X - -
+- O -
+- - -
+To make it an opening you need to do one more move - response:
+X - -
+- O X
+- - - now this is an opening (after X response)
+After opening next four moves are mid game, this is when main game really happens and most victories are done.
+After mid game 2 last moves are end game. Usually they don't matter really, but in some bizzarre openings victory happens now.
+Now lets proceed to openings list.
+
+OPENINGS LIST DISCLAIMER
+------------------------
+
+Each opening has informations about its outcome (Draw, O win or X win), to calculate it I have assumed rational game and players doing perfect and optimal moves.
+To make it look more professional and give Tictactoe more respect each opening has its own unique name (like in Chess).
+Also this list does not contain rotations and symmetrical openings as they are essensialy same, there are only unique openings (in terms of gameplay).
+However these names were done by me and my friends so they are subject to change.
+All "characters" which few openings are named after are fictional characters from some god-forgotten fantasy universe (except historical characters like Romulus or Pythagoras).
+X is always a starting player.
+
+LICENSE
+-------
+
+This document is distributed under I-Do-Not-Care-What-You-Do-With-This License.
+
+OPENINGS LIST
+-------------
+
+X - - Belgian Opening (X)
+- - -
+O - X
+
+- X - Alfa Debut (Draw)
+- - X
+- O -
+
+- X - Romulus Game Italian Variant (O)
+- - O
+- X -
+
+- X - Dr. Whinelouse Countergambit (Draw)
+- - -
+X - O
+
+- O - Wolf's Opening (X)
+- - -
+X - X
+
+X - - Pythagoras Debut (Draw)
+- - O
+- X -
+
+O - - Cross-Alpha Opening (O)
+- - X
+- X -
+
+- X O Tower (Draw)
+- - X
+- - -
+
+- O X Second Crusade (X)
+- - X
+- - -
+
+- X - River Opening Central Variant (Draw)
+- X -
+- O -
+
+X - - Third Crusade (Draw)
+X O -
+- - -
+
+X - - Quarter-Tower (X)
+O X -
+- - -
+
+O - - Fourth Crusade (Draw)
+X X -
+- - -
+
+X - - River Opening (O)
+X - -
+O - -
+
+X - - Dr.Whinelouse-Kevin Game (Draw)
+O - -
+X - -
+
+X - - Half-Chinese Game (O)
+X - -
+- O -
+
+X - - Shladovski's Half-Game (Draw)
+O - -
+- X -
+
+O - - Central Debut (O)
+X - -
+- X -
+
+X - - Chinese Game
+X - -
+- - O
+
+X - - Slavic Half-Game (Draw)
+O - -
+- - X
+
+O - - Slavic Game (Draw)
+X - -
+- - X
+
+X - - Counterclassic Variant (Draw)
+- X -
+O - -
+
+X - - Italian Debut (Draw)
+- O -
+X - -
+
+X - - Classic-Belgian Variant (X)
+- X -
+- O -
+
+X - - Shladovski's Opening (Draw)
+- O X
+- - -
+
+O - - Chinese-River Opening (Draw)
+- X -
+- X -
+
+X - - Classic Opening (Draw)
+- X -
+- - O
+
+X - - Breton Gambit (Draw)
+- O -
+- - X
+
+X - - Cezar Game (X)
+- - -
+X - O
+
+- X X Counterchinese Half-Game (Draw)
+- - -
+- O -
+
+- X O Romulus Debut (O)
+- - -
+- X -
+
+- O X Gorge Debut (Draw)
+- - -
+- X -
+
+- X X Counterchinese Game (O)
+- - -
+- - O
+
+- X O Indian Opening (Draw)
+- - -
+- - X
+
+- O X Roman Opening (X)
+- - -
+- - X
+
+- X - Castle (Draw)
+- O X
+- - -
+
+- - - Dr. Whinelouse Opening (O)
+X O X
+- - -
+
+- O - First Crusade (X)
+- X X
+- - -
+
+
+VERSION
+-------
+
+2022-01-17 First version
+
+TICTACTOE ONLINE
+----------------
+
+If you want you can play my Tictactoe Online. Download it from https://github.com/TheNeverMan/tictactoe-online.
+
+CONTACT
+-------
+
+thenevermanever@gmail.com
+
+AUTHOR
+------
+
+TheNeverMan 2022
